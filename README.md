@@ -6,11 +6,11 @@ this is react-carousel component and it suport Responsive layout!(suport gesture
 
 #Start
 ```
-$ git clone git@github.com:zhuangtongfa/react-carousel.git
+git clone https://github.com/SmartDoubleXiao/react-carousel.git master
 
-$ npm install
+npm install
 
-$ npm start
+npm start
 
 ```
 #Usage
